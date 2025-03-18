@@ -1,2 +1,2 @@
 # CNN_flying-object-detection
-CNN model detecting flying objects
+Using CNN model for detecting flying objects and comparing the performance with the common model online
